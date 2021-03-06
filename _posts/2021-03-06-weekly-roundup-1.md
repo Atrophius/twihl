@@ -155,7 +155,7 @@ ahead into the rest of the year. If you enjoyed this post and want to see more
 like it, head on over to [@WeekInHololive][TWIHLTwitter] on Twitter and drop a
 follow. All of the site's posts will go up over there.
 
-Thanks for reading! またね！
+Thanks for reading! <abbr title="See you!">またね！</abbr>
 
 [NeneSong]: <https://youtu.be/YGUz_9n9-Oc>
 [MikoBdayVideo]: <https://youtu.be/GXFRiqxZAT0>
