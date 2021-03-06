@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello, world!"
 date:   2021-03-06 01:31:24 -0500
-categories: twihl update
+tags: twihl update
 ---
 *Note: This is a copy of the information posted on [About](/about).*
 
