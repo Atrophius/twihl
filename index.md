@@ -4,4 +4,3 @@
 
 layout: home
 ---
-Where does this go?
