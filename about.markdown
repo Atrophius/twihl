@@ -55,10 +55,10 @@ pretty much anything music-related that comes out of **Suisei, Towa, Calli,
 Kanata, and Sora**.
 
 I think that about covers it. I look forward to helping people stay in the loop
-on what's going on. If you want to get in touch with me, you follow this site on
-Twitter [@WeekInHololive](https://twitter.com/WeekInHololive). I'm also making
-the following e-mail addresses available for people who want to help me source
-things for the site:
+on what's going on. If you want to get in touch with me, you can follow this
+site on Twitter [@WeekInHololive](https://twitter.com/WeekInHololive). I'm also
+making the following e-mail addresses available for people who want to help me
+source things for the site:
 
 * Suggestions: tips -at- weekinhololive.com
 * Corrections: errors -at- weekinhololive.com
