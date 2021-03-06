@@ -28,7 +28,10 @@ here's a list of my oshis so you know what you're getting into:
     * Akai Haato (HAACHAMA)
 * JP Gen 2
     * **Oozora Subaru**
-* JP GAMERS - ALL
+* JP Gamers
+    * Nekomata Okayu
+    * Inugami Korone
+    * Ookami Mio
 * JP Gen 3
     * Shirogane Noel
     * Shiranui Flare
