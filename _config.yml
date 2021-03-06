@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.weekinhololive.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: WeekInHololive
-permalink: /posts/:title:output_ext
+permalink: /posts/:title/
 
 # Build settings
 theme: minima
