@@ -28,6 +28,11 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.weekinhololive.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: WeekInHololive
 permalink: /posts/:title/
+show_excerpts: true
+header_pages:
+  - resources.md
+  - holomembers.md
+  - about.md
 
 # Build settings
 theme: minima

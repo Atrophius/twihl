@@ -3,6 +3,9 @@ layout: post
 title:  "Hello, world!"
 date:   2021-03-06 01:31:24 -0500
 tags: twihl update
+excerpt: >-
+  Welcome to This Week in Hololive! Here's a quick overview of what we're all
+  about here.
 ---
 *Note: This is a copy of the information posted on [About](/about).*
 
