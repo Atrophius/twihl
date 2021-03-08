@@ -17,7 +17,7 @@ content! It'll also point you to fun places and communities to hangout.
 
 ### [HoloTools](https://hololive.jetri.co/#/)
 
-HoloTools is a mulit-stream website that also lists upcoming and historical
+HoloTools is a multi-stream website that also lists upcoming and historical
 streams for all of the Hololive talents. You can use it to keep track of all
 your favorite talents and watch multiple streams simultaneously really easily.
 The best part is that LiveTL (below) works with HoloTools so you can inline
