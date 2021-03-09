@@ -34,3 +34,14 @@ their own chat pane to make it easier to follow what's happening in the stream.
 LiveTL depends on active live translators being in the chat, so please show them
 some love. I very much appreciate the time and effort that these folks
 dedicate to improving our overseas viewing experience.
+
+### Fan Translators / Clippers
+
+One of the best ways to keep up with the Hololive talents is through fan
+translations and clips. I've compiled a list of pretty well-respected
+translators and clippers below. If you see a mistake or anyone I missed or think
+I should add, [hit me up on Twitter][TWIHLTwitter].
+
+{% include clippers.html %}
+
+[TWIHLTwitter]: <https://twitter.com/WeekInHololive>
