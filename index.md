@@ -16,10 +16,10 @@ Here's what you can expect to start happening here over the next couple months:
 information coming out on a very frequent basis as interesting things happen
 with all of the talents. Those will be HoloDay posts. The Weekly Roundups are
 designed as an "In Case You Missed It" drop of information from the HoloDays for
-the past week + some additional information on talent milestones, some
-interesting content you might have missed, and some of my favorite fan art from
-the past week. Soon, you'll be able to subscribe to our Weekly Roundups via
-email to make sure you never miss an update.
+the past week + stuff I couldn't include in individual HoloDays, some additional
+information on talent milestones, some interesting content you might have
+missed, and some of my favorite fan art from the past week. Soon, you'll be able
+to subscribe to our Weekly Roundups via email to make sure you never miss an update.
 * **HoloHistory Series** &mdash; I'm gonna take a look back at some of the
 history of Hololive and the various talents, particularly Gen 0 - 3, so that you
 can learn more about them all.
