@@ -4,6 +4,7 @@
 
 layout: home
 title: Welcome!
+list_title: Latest Articles
 ---
 Welcome to This Week in Hololive! This is a new website that's focused on
 keeping up with interesting things happening every week with all of the Hololive
@@ -20,9 +21,14 @@ the past week + stuff I couldn't include in individual HoloDays, some additional
 information on talent milestones, some interesting content you might have
 missed, and some of my favorite fan art from the past week. Soon, you'll be able
 to subscribe to our Weekly Roundups via email to make sure you never miss an update.
-* **HoloHistory Series** &mdash; I'm gonna take a look back at some of the
-history of Hololive and the various talents, particularly Gen 0 - 3, so that you
-can learn more about them all.
+* **Talent Profiles** &mdash; I'm planning to write up profiles of the talents
+that will be eventually used as a hub on this site for all things related to
+that talent. Each talent will start with a basic profile with resources, recent
+news and activities related to that talent, etc. Eventually, the goal is to have
+a detailed breakdown of each talent's background and history within Hololive so
+people new to the community can learn much more about their oshis in one place
+instead of little bits of information spread out in several places across the
+internet.
 * **HoloMusic Series** &mdash; I **LOVE** the musical talent within Hololive. It
 is by far some of my favorite content and we will be give special attention to
 both past and future original music as well as covers that come from the
