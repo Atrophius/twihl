@@ -30,7 +30,7 @@ people new to the community can learn much more about their oshis in one place
 instead of little bits of information spread out in several places across the
 internet.
 * **HoloMusic Series** &mdash; I **LOVE** the musical talent within Hololive. It
-is by far some of my favorite content and we will be give special attention to
+is by far some of my favorite content and we will be giving special attention to
 both past and future original music as well as covers that come from the
 Hololive talents.
 * **HoloArt Corner** &mdash; Hololive boasts one of the most talented and
