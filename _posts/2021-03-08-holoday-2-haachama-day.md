@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "HoloDay #2 for March 8th, 2021"
+author: Atrophius
 date:   2021-03-08 15:00:00 -0500
 excerpt: >-
   It's Haachama Day, so let's take a day to appreciate the strongest idol and

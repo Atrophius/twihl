@@ -1,5 +1,14 @@
 <ul>
 {% for clipper in site.data.clippers %}
-    <li><a href="{{ clipper.url }}" target="_blank">{{ clipper.name }}</a></li>
+    <li>
+        <a href="{{ clipper.url }}" target="_blank">{{ clipper.name }}</a>
+        {% if clipper.tags %}
+        <ul>
+            {% for talent in clipper.tags %}
+            <li>{{ site.data.holomem[talent].name }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </li>
 {% endfor %}
 </ul>

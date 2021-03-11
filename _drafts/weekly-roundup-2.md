@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Weekly Roundup #2: March 13th, 2021"
+author: Atrophius
 date:   2021-03-13 12:00:00 -0500
 excerpt: >-
   It's time for our Weekly Roundup! This week we're talking about TBD
 tags:
-  - shion
   - okayu
   - korone
   - botan
@@ -14,9 +14,7 @@ tags:
 Welcome to This Week in Hololive's Weekly Roundup where we attempt to summarize
 a lot of the interesting happenings of the last week.
 
-## Shion is missing?
-
-A lot of time has passed since the last time Shion streamed.
+*** Recap HoloDay Events? ***
 
 ## Interesting Content
 
@@ -50,11 +48,10 @@ milestones:
 
 * ???
 
-## Fan Art of the Week
+## HoloArt Corner Roundup Edition
 
-Here's a few of my favorite fan arts from the past week or so. Each image is
-a link to its respective source and credits are in the captions. Go show these
-artists some love.
+Here's a few of my favorite fan arts from the past week or so. I've embedded the
+original tweets for all of these below. Go show these artists some love.
 
 ## Closing Thoughts
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "HoloDay #1 for March 7th, 2021"
+author: Atrophius
 date:   2021-03-07 14:00:00 -0500
 excerpt: >-
   Wait, did someone say HoloStars 3D? It's our Winning Son?

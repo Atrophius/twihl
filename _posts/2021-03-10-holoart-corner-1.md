@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "HoloArt Corner #1 for March 10th, 2021"
+author: Atrophius
 date:   2021-03-10 14:30:00 -0500
 excerpt: >-
   Our first HoloArt Corner features Fan Art of Miko, A-chan, Subaru, Suisei,

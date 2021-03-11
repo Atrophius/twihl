@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Weekly Roundup #1: March 6th, 2021"
+author: Atrophius
 date:   2021-03-06 13:31:24 -0500
 excerpt: >-
   It's time for our Weekly Roundup! This week we're talking about Gen 0's new
