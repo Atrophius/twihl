@@ -23,9 +23,9 @@ years ago.
 
 ## So they're cartoons? This is kiddie stuff then?
 
-Like with other content creators, our content appeals to all. Some talents
+Like with other content creators, their content appeals to all. Some talents
 provide fairly family friendly content, others provide more risque content. Just
-because we use digital avatars, does not mean we're catering to children.
+because they use digital avatars, does not mean they're catering to children.
 
 ## Then, they're just a bunch of guys with voice changers?
 
