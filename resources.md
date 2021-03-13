@@ -24,7 +24,7 @@ The best part is that LiveTL (below) works with HoloTools so you can inline
 expand a LiveTL panel for every stream you have open once you've loaded the
 chat!
 
-### [LiveTL](https://kentonishi.github.io/LiveTL/)
+### [LiveTL](https://livetl.app/)
 
 LiveTL is a browser extension that you can install to make it easier to follow
 Japanese-language streams. LiveTL reads the live chat looking for users that
