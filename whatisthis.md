@@ -4,14 +4,15 @@ title: What is this?
 permalink: /what/
 ---
 
-*Adapted from the Hololive explanations from Reddit that are frequently posted
-when subreddit posts reach /r/all.*
-
 Hello! This is a website recapping recent events for Hololive Production
 ([wikipedia](https://en.wikipedia.org/wiki/Hololive_Production)), a talent
 agency based out of Tokyo, Japan that manages Virtual YouTubers - content
 creators who stream using digital avatars. Let's start by providing some answers
 to commonly asked questions.
+
+*This explanation is adapted from the Hololive explanations from Reddit that are
+frequently posted when subreddit posts reach /r/all. Thanks, T-chan and
+UnstoppablePhoenix!*
 
 ## Why digital?
 
