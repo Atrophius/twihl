@@ -57,10 +57,10 @@ traditional Japanese vibe.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3UujTImfKIY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### HoloMyth
+
 They also have an English branch if you feel like Japanese-language content
 isn't for you.
-
-### HoloMyth
 
 [Ninomae Ina'nis](https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg) -
 with the help of an ancient tome, she gained strange and mystical powers.
@@ -76,6 +76,8 @@ Death's apprentice, and a fantastic rapper.
 
 [Amelia Watson](https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg) - a
 detective who hiccups a lot and plays games with fantastic commentary.
+
+### HoloID
 
 There's also the Indonesian branch, where the talents speak English, as well as
 Indonesian and Japanese.
@@ -97,7 +99,7 @@ For other content, search "hololive" in YouTube's search function and you'll
 find a bunch. You can also check out this site's [resources page](/resources)
 for a list of quality translators and clip channels.
 
-\- T-Chan (original explanation),
+\- T-Chan (Hololive Staff, original explanation),
 [UnstoppablePhoenix](https://www.reddit.com/user/UnstoppablePhoenix/) (frequent
 poster on [/r/hololive](https://www.reddit.com/r/Hololive/)), and Atrophius
 (this site's author).
