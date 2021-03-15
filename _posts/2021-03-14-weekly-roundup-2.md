@@ -110,7 +110,7 @@ she can do on stream to things that will not strain her throat too much and her
 upcoming birthday/debut anniversary celebration stream will be a normal stream,
 either a call-in or a chatting stream.
 
-**Special note to Hosiyomis**: Suisei is taking care of herself and has her
+**Special note to Hoshiyomis**: Suisei is taking care of herself and has her
 manager for support. Please don't feel the need to try to tell her what to do or
 how to take care of herself. She is getting the help she needs. Just be patient
 while she heals and support her in what she's able to do in the meantime.
