@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekly Roundup #2: March 14th, 2021"
+title:  "Weekly Roundup #2 for March 14th, 2021"
 author: Atrophius
 date:   2021-03-14 12:00:00 -0500
 excerpt: >-
