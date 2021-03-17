@@ -1,0 +1,5 @@
+{% if page.tweets %}
+{% for t in page.tweets %}
+{% include tweet_embed.html tweet=t %}
+{% endfor %}
+{% endif %}
