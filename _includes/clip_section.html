@@ -1,0 +1,15 @@
+## Check out these clips
+
+Here's a few fun clips that I enjoyed recently. If you're looking for more
+clips, head on over to [our resources page][TWIHLResources] where you can find
+a list of quality clippers. I've also started tagging some of these with the
+talents that they commonly clip and will be filling out these tags more over
+time.
+
+{% if page.clips %}
+{% for clip in page.clips %}
+{% include yt_embed.html video=clip.url %}
+
+> {{ clip.caption }}
+{% endfor %}
+{% endif %}
