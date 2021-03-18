@@ -131,7 +131,7 @@ in.
 As Towa sinks deeper, we see a couple more images from her youth. Encouragement
 from what looks like a father figure ("Kenzoku" is written on the wrist, which
 stands for "family"). A look at a younger Towa who also is in love with singing.
-And while she's been given an opportunity that looks like success of a silver
+And while she's been given an opportunity that looks like success on a silver
 platter, she doesn't want to lose herself and the parts of her that make up
 who she is and has been up to now.
 
