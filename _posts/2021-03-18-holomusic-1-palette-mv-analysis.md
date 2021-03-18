@@ -12,7 +12,7 @@ tags:
 
 Welcome to the first HoloMusic! This is going to be a very occasional series of
 articles where we take a close look at music or musicians that come out of
-Hololive.
+Hololive. [Join the discussion over on Reddit][RedditDiscuss].
 
 This morning, [I wrote HoloDay #7][HoloDay7] which included the release of
 Towa's new MV for Palette. I can't get it out of my head. I want to talk more
@@ -242,3 +242,4 @@ form below.
 [TWIHLTwitter]: <https://twitter.com/WeekInHololive>
 [HoloDay7]: </posts/holoday-7/>
 [RedditLyrics]: <https://www.reddit.com/r/Hololive/comments/luhigz/my_translation_interpretation_of_tokoyami_towas/>
+[RedditDiscuss]: <https://www.reddit.com/r/Hololive/comments/m80756/twih_holomusic_1_palette_music_video_analysis/>
