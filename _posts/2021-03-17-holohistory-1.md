@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Suisei Week Day 1: Origins and Comet"
+title:  "HoloHistory #1: Suisei's Origins and 1st Original Song"
 author: Atrophius
 date:   2021-03-17 16:00:00 -0500
 excerpt: >-
@@ -9,6 +9,11 @@ excerpt: >-
 tags:
   - suisei
 ---
+
+*This article was originally planned to be apart of a series dedicated to Suisei
+for her birthday, but the series was unfortunately dropped due to lack of
+available time to finish the articles. A separate, special event is being
+planned here on the site to celebrate Suisei's birthday instead.*
 
 Welcome to Suisei Week! Sui-chan's birthday and 3rd debut anniversary are coming
 up very soon, so I wanted to do something a little special to honor my favorite

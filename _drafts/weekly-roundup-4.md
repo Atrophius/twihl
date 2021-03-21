@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Weekly Roundup #3 for March 21st, 2021"
+title:  "Weekly Roundup #4 for March 28th, 2021"
 author: Atrophius
-date:   2021-03-21 12:00:00 -0500
+date:   2021-03-28 12:00:00 -0500
 excerpt: >-
   It's time for our Weekly Roundup! We're recapping the HoloDays for the week as
   well as talking about some stuff that happened this weekend, including TBD
