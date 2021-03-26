@@ -33,6 +33,8 @@ tweets:
   - https://twitter.com/junwei611/status/1374367770612174853
 ---
 
+<!-- Hashtags: {% for tag in page.tags %}{% if site.data.holomem[tag] %}#{{ site.data.holomem[tag].art_tag }} {% endif %}{% endfor %} -->
+
 **WAH!**
 
 Welcome to the HoloArt Corner! Hololive has one of the most artistic and
