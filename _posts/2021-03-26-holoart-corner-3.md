@@ -4,8 +4,8 @@ title:  "HoloArt Corner #3 for March 26th, 2021"
 author: Atrophius
 date:   2021-03-26 3:30:00 -0500
 excerpt: >-
-  Week 3 of the HoloArt Corner features Fan Art of all of Miko, Risu, Haato,
-  Aki, Lamy, Flare, Ina, Gura, Calli, Suisei, Ayame, and A-chan!
+  Week 3 of the HoloArt Corner features Fan Art of Miko, Risu, Haato, Aki, Lamy,
+  Flare, Ina, Gura, Calli, Suisei, Ayame, and A-chan!
 tags:
   - fanart
   - ina
