@@ -12,8 +12,8 @@ tags:
 
 *This article was originally planned to be apart of a series dedicated to Suisei
 for her birthday, but the series was unfortunately dropped due to lack of
-available time to finish the articles. A separate, special event is being
-planned here on the site to celebrate Suisei's birthday instead.*
+available time to finish the articles. Suisei will be back in future
+installments of HoloHistory.*
 
 Welcome to Suisei Week! Sui-chan's birthday and 3rd debut anniversary are coming
 up very soon, so I wanted to do something a little special to honor my favorite

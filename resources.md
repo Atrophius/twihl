@@ -7,13 +7,28 @@ permalink: /resources/
 This page will contain some resources and tools to help with viewing Hololive
 content! It'll also point you to fun places and communities to hangout.
 
-## Communities
+## Communities & Information
 
 ### [Official Hololive Subreddit](https://www.reddit.com/r/Hololive/)
 
 ### [Hololive Fan Server Discord](https://discord.gg/holofans)
 
+### [Hololive Fan Wiki](https://hololive.wiki/)
+
 ## Viewing Resources
+
+### [Holodex](https://holodex.net/)
+
+Holodex is a massive content aggregation site that pulls in all of the active,
+upcoming, and previous streams of the talents as well as clips from their
+tracked list of clippers/subbers. They also track music produced by the talents
+using a crowdsourced song curation that allows users to submit timestamps for
+songs in karaoke streams that go into a searchable database, in addition to the
+official videos for covers and originals. Add on top of that the ability to
+multi-stream several of your favorite talents at once, chat-sourced translations
+built directly into the site, and their creative "MugenClips" feature which
+allows for group watching of an endlist list of clips. This is an incredible
+resource for consuming your favorite Hololive content.
 
 ### [HoloTools](https://hololive.jetri.co/#/)
 

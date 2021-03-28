@@ -298,3 +298,87 @@ amelia:
   youtube: https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg
   twitter: https://twitter.com/watsonameliaen
   art_tag: ameliaRT
+  
+miyabi:
+  name: Hanasaki Miyabi
+  gen: Holostars 1st Gen
+  youtube: https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw
+  twitter: https://twitter.com/miyabihanasaki
+  art_tag: みやびじゅつ
+
+izuru:
+  name: Kanade Izuru
+  gen: Holostars 1st Gen
+  youtube: https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA
+  twitter: https://twitter.com/kanadeizuru
+  art_tag: イヅル描いたぞ
+  
+aruran:
+  name: Arurandeisu
+  gen: Holostars 1st Gen
+  youtube: https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ
+  twitter: https://twitter.com/arurandeisu
+  art_tag: アランの画廊
+  
+rikka:
+  name: Rikkaroid
+  gen: Holostars 1st Gen
+  youtube: https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w
+  twitter: https://twitter.com/rikkaroid
+  art_tag: 調りつ師
+
+astel:
+  name: Astel Leda
+  gen: Holostars 2nd Gen
+  youtube: https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg
+  twitter: https://twitter.com/astelleda
+  art_tag: アステル絵ダ
+
+temma:
+  name: Kishido Temma
+  gen: Holostars 2nd Gen
+  youtube: https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg
+  twitter: https://twitter.com/kishidotemma
+  art_tag: 騎士絵画
+
+roberu:
+  name: Yukoku Roberu
+  gen: Holostars 2nd Gen
+  youtube: https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA
+  twitter: https://twitter.com/yukokuroberu
+  art_tag: 描クテル
+  
+shien:
+  name: Kageyama Shien
+  gen: Holostars 3rd Gen
+  youtube: https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g
+  twitter: https://twitter.com/kageyamashien
+  art_tag: シ絵ン
+
+oga:
+  name: Aragami Oga
+  gen: Holostars 3rd Gen
+  youtube: https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA
+  twitter: https://twitter.com/aragamioga
+  art_tag: オウ画
+
+achan:
+  name: A-chan
+  gen: Hololive General Manager
+  twitter: https://twitter.com/achan_UGA
+  art_tag: 絵ーちゃん
+  
+enma:
+  name: EnMa
+  gen: Hololive English Manager [Ina, Gura, Amelia]
+  art_tag: ENMArt
+
+jenma:
+  name: JEnMa
+  gen: Hololive English Manager [Kiara]
+  art_tag: JENMArt
+
+jchad:
+  name: J-chad
+  gen: Hololive Manager [Calli]
+  art_tag: JChadArt
