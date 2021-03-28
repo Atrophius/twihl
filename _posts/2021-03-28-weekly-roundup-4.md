@@ -102,7 +102,7 @@ watching the full stream. The rest of the set is really good.
 ## Suisei's Radio Presence is Changing
 
 This weekend is the last episode of Suisei's weekly radio show, Music Space.
-The show ran for a year, ending with exactly 52 episode.  Sadly, due to the
+The show ran for a year, ending with exactly 52 episodes.  Sadly, due to the
 pandemic, quite a lot of the later episodes were re-runs due to the state of
 emergency in Japan making it impossible to do in-studio shows with guests. After
 the final show airs in Japan this weekend, the parts should end up on Suisei's
