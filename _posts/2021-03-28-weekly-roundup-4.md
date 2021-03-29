@@ -273,7 +273,7 @@ form below.
 [TWIHLResources]: </resources>
 [HoloDay9]: </posts/holoday-9/>
 [HoloDay10]: </posts/holoday-10/>
-[HoloArt3]: </posts/holoart-3/>
+[HoloArt3]: </posts/holoart-corner-3/>
 [HoloHistory1]: </posts/holohistory-1/>
 [HoloMusic1]: </posts/holomusic-1-palette-mv-analysis/>
 [HoloMembers]: </holomem/>
