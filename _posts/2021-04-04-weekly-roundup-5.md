@@ -220,6 +220,9 @@ for that.
 
 ## Talent Milestones
 
+As is tradition now, we're gonna end with some notable milestones that were hit
+in the last week:
+
 * Natsuiro Matsuri - 900k Subscribers
 * Yukihana Lamy - 600k Subscribers
 
