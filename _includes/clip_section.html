@@ -10,6 +10,8 @@ time.
 {% for clip in page.clips %}
 {% include yt_embed.html video=clip.url %}
 
+{% if clip.caption %}
 > {{ clip.caption }}
+{% endif %}
 {% endfor %}
 {% endif %}
