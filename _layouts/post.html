@@ -14,6 +14,14 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span> 
       {%- endif -%}
     </p>
+    <div class="share-cta" style="border:1px black dashed;padding:15px">
+      <h3><strong>Could you share this?</strong></h3>
+      <p>
+        Our writing depends on your help to be seen by as many Hololive fans as possible. If you could take a quick second to share this with your friends using one of the buttons below, that would be a big help. Thanks!
+      </p>
+      <div class="fb-share-button" data-layout="button" data-size="large"></div>
+        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="{{ page.excerpt | truncate: 190 }}" data-via="WeekInHololive" data-hashtags="hololive" data-show-count="false">Tweet</a>
+    </div>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
@@ -21,7 +29,7 @@ layout: default
   </div>
   
   <footer class="post-footer" style="border:1px black dashed;padding:15px">
-      <h3>Enjoy this article?</h3>
+      <h3><strong>Enjoy this article?</strong></h3>
       <p>
           Subscribe to get the Weekly Roundup sent to you by email so you never
           miss out on anything your favorite Hololive talents are up to. We hate
