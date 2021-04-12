@@ -18,7 +18,7 @@ the show.
 
 ## Clearing Up Some Misconceptions
 
-Thanks to community translators Shrek Wazowski and Akuma / Grumpy Bear from
+Thanks to community translators Shrek Wazowski and Akuma from
 [the LiveTL Discord][LiveTLDiscord], a full translation of AZKi's remarks from
 the concert has been produced. **Just as a disclaimer**, these are volunteer
 translators from the community and have no affiliation with Cover Corp or
