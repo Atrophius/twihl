@@ -23,7 +23,7 @@ Thanks to community translators Shrek Wazowski and Akuma / Grumpy Bear from
 the concert has been produced. **Just as a disclaimer**, these are volunteer
 translators from the community and have no affiliation with Cover Corp or
 Hololive Production. Language translation isn't an exact science and requires
-some amount of intepretation on the side of the translator. It is possible that
+some amount of interpretation on the side of the translator. It is possible that
 there could be some translation errors, but we believe we have reached a pretty
 close approximation of the message that AZKi was trying to send.
 
