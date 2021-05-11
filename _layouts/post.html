@@ -14,6 +14,7 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span> 
       {%- endif -%}
     </p>
+    {%- unless page.hide_ctas -%}
     <div class="share-cta" style="border:1px black dashed;padding:15px">
       <h3><strong>Could you share this?</strong></h3>
       <p>
@@ -22,12 +23,14 @@ layout: default
       <div class="fb-share-button" data-layout="button" data-size="large"></div>
         <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="{{ page.excerpt | truncate: 190 }}" data-via="WeekInHololive" data-hashtags="hololive" data-show-count="false">Tweet</a>
     </div>
+    {%- endunless -%}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
   
+  {%- unless page.hide_ctas -%}
   <footer class="post-footer" style="border:1px black dashed;padding:15px">
       <h3><strong>Enjoy this article?</strong></h3>
       <p>
@@ -37,6 +40,7 @@ layout: default
       </p>
       <script async data-uid="df691b4e91" src="https://weekinhololive.ck.page/df691b4e91/index.js"></script>
   </footer>
+  {%- endunless -%}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
